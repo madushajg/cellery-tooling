@@ -3,7 +3,7 @@
 	"displayName": "Cellery",
 	"publisher": "wso2-cellery",
 	"description": "Code completions, snippet suggestions and deployment support for Cellery",
-	"version": "0.6.0-SNAPSHOT",
+	"version": "0.6.0",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/wso2/cellery-tooling.git",
